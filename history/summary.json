@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 2114,
     "timeDay": 2199,
-    "timeWeek": 2114,
+    "timeWeek": 2148,
     "timeMonth": 2114,
     "timeYear": 2114,
     "dailyMinutesDown": {}
@@ -30,7 +30,7 @@
     "uptimeYear": "100.00%",
     "time": 289,
     "timeDay": 81,
-    "timeWeek": 289,
+    "timeWeek": 255,
     "timeMonth": 289,
     "timeYear": 289,
     "dailyMinutesDown": {}
@@ -48,7 +48,7 @@
     "uptimeYear": "100.00%",
     "time": 319,
     "timeDay": 210,
-    "timeWeek": 319,
+    "timeWeek": 254,
     "timeMonth": 319,
     "timeYear": 319,
     "dailyMinutesDown": {}
@@ -66,7 +66,7 @@
     "uptimeYear": "100.00%",
     "time": 391,
     "timeDay": 308,
-    "timeWeek": 391,
+    "timeWeek": 273,
     "timeMonth": 391,
     "timeYear": 391,
     "dailyMinutesDown": {}
@@ -76,17 +76,19 @@
     "url": "https://analytics.shyrz.me",
     "icon": "https://favicons.githubusercontent.com/analytics.shyrz.me",
     "slug": "analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 269,
     "timeDay": 320,
-    "timeWeek": 269,
+    "timeWeek": 256,
     "timeMonth": 269,
     "timeYear": 269,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-10-21": 0
+    }
   }
 ]
