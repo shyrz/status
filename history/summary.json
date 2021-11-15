@@ -4,7 +4,7 @@
     "url": "https://shyrz.me",
     "icon": "https://favicons.githubusercontent.com/shyrz.me",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1934,
     "timeMonth": 2135,
     "timeYear": 2132,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-11-15": 0
+    }
   },
   {
     "name": "Shyrism.News",
