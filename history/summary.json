@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/shyrz.me",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.62%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2250,
-    "timeDay": 4262,
-    "timeWeek": 2490,
-    "timeMonth": 2267,
-    "timeYear": 2250,
-    "dailyMinutesDown": {
-      "2021-11-15": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2255,
+    "timeDay": 4405,
+    "timeWeek": 2581,
+    "timeMonth": 2291,
+    "timeYear": 2255,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shyrism.News",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 303,
-    "timeDay": 90,
-    "timeWeek": 380,
-    "timeMonth": 303,
-    "timeYear": 303,
+    "time": 298,
+    "timeDay": 122,
+    "timeWeek": 286,
+    "timeMonth": 295,
+    "timeYear": 298,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 965,
-    "timeWeek": 318,
-    "timeMonth": 336,
-    "timeYear": 345,
+    "time": 353,
+    "timeDay": 648,
+    "timeWeek": 377,
+    "timeMonth": 351,
+    "timeYear": 353,
     "dailyMinutesDown": {}
   },
   {
@@ -67,8 +65,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 311,
-    "timeDay": 324,
-    "timeWeek": 231,
+    "timeDay": 294,
+    "timeWeek": 246,
     "timeMonth": 277,
     "timeYear": 311,
     "dailyMinutesDown": {}
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 304,
-    "timeDay": 317,
-    "timeWeek": 265,
-    "timeMonth": 305,
-    "timeYear": 304,
+    "time": 305,
+    "timeDay": 323,
+    "timeWeek": 256,
+    "timeMonth": 309,
+    "timeYear": 305,
     "dailyMinutesDown": {}
   }
 ]
