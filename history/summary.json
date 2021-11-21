@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/shyrz.me",
     "slug": "blog",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.56%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 2232,
-    "timeDay": 2224,
-    "timeWeek": 2651,
-    "timeMonth": 2267,
-    "timeYear": 2232,
-    "dailyMinutesDown": {
-      "2021-11-20": 6
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 2227,
+    "timeDay": 2169,
+    "timeWeek": 2586,
+    "timeMonth": 2261,
+    "timeYear": 2227,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Shyrism.News",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 291,
-    "timeDay": 78,
-    "timeWeek": 200,
-    "timeMonth": 285,
-    "timeYear": 291,
+    "time": 294,
+    "timeDay": 382,
+    "timeWeek": 216,
+    "timeMonth": 295,
+    "timeYear": 294,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 345,
-    "timeDay": 293,
-    "timeWeek": 413,
+    "time": 342,
+    "timeDay": 214,
+    "timeWeek": 416,
     "timeMonth": 349,
-    "timeYear": 345,
+    "timeYear": 342,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 412,
-    "timeWeek": 294,
-    "timeMonth": 281,
-    "timeYear": 308,
+    "time": 307,
+    "timeDay": 268,
+    "timeWeek": 288,
+    "timeMonth": 280,
+    "timeYear": 307,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 298,
-    "timeDay": 260,
-    "timeWeek": 267,
-    "timeMonth": 307,
-    "timeYear": 298,
+    "time": 295,
+    "timeDay": 153,
+    "timeWeek": 247,
+    "timeMonth": 303,
+    "timeYear": 295,
     "dailyMinutesDown": {}
   }
 ]
