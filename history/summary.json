@@ -78,7 +78,7 @@
     "url": "https://analytics.shyrz.me",
     "icon": "https://favicons.githubusercontent.com/analytics.shyrz.me",
     "slug": "analytics",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -89,6 +89,8 @@
     "timeWeek": 219,
     "timeMonth": 245,
     "timeYear": 283,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-12-02": 0
+    }
   }
 ]
