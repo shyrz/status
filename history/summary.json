@@ -16,7 +16,7 @@
     "timeMonth": 77,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2022-05-26": 1148,
+      "2022-05-26": 1157,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
@@ -205,9 +205,9 @@
     "slug": "notion",
     "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.36%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 304,
     "timeDay": 278,
@@ -215,7 +215,7 @@
     "timeMonth": 333,
     "timeYear": 304,
     "dailyMinutesDown": {
-      "2022-05-26": 0
+      "2022-05-26": 9
     }
   },
   {
@@ -223,19 +223,19 @@
     "url": "https://notion.re",
     "icon": "https://favicons.githubusercontent.com/notion.re",
     "slug": "notion-re",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 328,
-    "timeDay": 283,
-    "timeWeek": 344,
-    "timeMonth": 323,
+    "timeDay": 266,
+    "timeWeek": 332,
+    "timeMonth": 320,
     "timeYear": 328,
     "dailyMinutesDown": {
-      "2022-05-26": 0
+      "2022-05-26": 9
     }
   },
   {
