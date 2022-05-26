@@ -16,7 +16,7 @@
     "timeMonth": 77,
     "timeYear": 773,
     "dailyMinutesDown": {
-      "2022-05-26": 1258,
+      "2022-05-26": 1265,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
@@ -203,19 +203,19 @@
     "url": "https://shyrz.ch",
     "icon": "https://favicons.githubusercontent.com/shyrz.ch",
     "slug": "notion",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "98.41%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "98.80%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 299,
-    "timeDay": 202,
-    "timeWeek": 258,
-    "timeMonth": 295,
-    "timeYear": 299,
+    "time": 298,
+    "timeDay": 201,
+    "timeWeek": 255,
+    "timeMonth": 293,
+    "timeYear": 298,
     "dailyMinutesDown": {
-      "2022-05-26": 23
+      "2022-05-26": 17
     }
   },
   {
@@ -225,9 +225,9 @@
     "slug": "notion-re",
     "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "94.91%",
-    "uptimeWeek": "99.27%",
-    "uptimeMonth": "99.83%",
+    "uptimeDay": "94.43%",
+    "uptimeWeek": "99.20%",
+    "uptimeMonth": "99.82%",
     "uptimeYear": "99.98%",
     "time": 326,
     "timeDay": 255,
@@ -235,7 +235,7 @@
     "timeMonth": 310,
     "timeYear": 326,
     "dailyMinutesDown": {
-      "2022-05-26": 74
+      "2022-05-26": 81
     }
   },
   {
