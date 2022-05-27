@@ -16,7 +16,8 @@
     "timeMonth": 86,
     "timeYear": 771,
     "dailyMinutesDown": {
-      "2022-05-26": 1435,
+      "2022-05-27": 5,
+      "2022-05-26": 1440,
       "2022-05-25": 1440,
       "2022-05-24": 1440,
       "2022-05-23": 1440,
@@ -205,9 +206,9 @@
     "slug": "notion",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "94.20%",
-    "uptimeWeek": "99.17%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.53%",
+    "uptimeWeek": "99.08%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.97%",
     "time": 298,
     "timeDay": 233,
@@ -215,7 +216,8 @@
     "timeMonth": 295,
     "timeYear": 298,
     "dailyMinutesDown": {
-      "2022-05-26": 83
+      "2022-05-27": 5,
+      "2022-05-26": 88
     }
   },
   {
