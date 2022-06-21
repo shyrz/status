@@ -1,7 +1,7 @@
 url: https://notion.re
-status: up
-code: 200
-responseTime: 253
-lastUpdated: 2022-06-21T06:58:36.463Z
+status: down
+code: 500
+responseTime: 703
+lastUpdated: 2022-06-21T07:07:16.427Z
 startTime: Thu Oct 14 2021 04:45:29 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
